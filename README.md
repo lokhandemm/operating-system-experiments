@@ -2,7 +2,7 @@
 
 This repository contains programs and projects focused on fundamental Operating System concepts.  
 
-## Contents:-
+## Contents :-
 
 - **Lab Programs:**  
   Basic programs related to OS concepts like scheduling, memory management, and synchronization.  
@@ -17,7 +17,7 @@ This repository contains programs and projects focused on fundamental Operating 
   - Banker’s Algorithm  
   - CPU Scheduling  
 
-## Topics Covered:- 
+## Topics Covered :- 
 
 1. **Process Management**  
    - Scheduling algorithms (FCFS, SJF, Priority, Round Robin)  
@@ -39,7 +39,7 @@ This repository contains programs and projects focused on fundamental Operating 
 6. **Shell Scripting**  
    - Linux commands and basic shell scripting  
 
-## Tools and Technologies:
+## Tools and Technologies :-
 
 - **Languages Used:** C, C++  
 - **Environment:** Linux/Unix  
