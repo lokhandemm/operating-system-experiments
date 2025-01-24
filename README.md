@@ -45,8 +45,4 @@ This repository contains programs and projects focused on fundamental Operating 
 - **Environment:** Linux/Unix  
 - **Editors/IDEs:** GCC, VS Code  
 
-## How to Use:
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/lokhandemm/os-lab.git  
+ 
