@@ -49,4 +49,4 @@ This repository contains programs and projects focused on fundamental Operating 
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com//os-lab.git  
+   git clone https://github.com/lokhandemm/os-lab.git  
