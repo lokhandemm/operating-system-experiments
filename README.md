@@ -3,7 +3,7 @@
 This repository contains programs and projects focused on fundamental Operating System concepts.   
 
 ## Contents :-
-
+ 
 - **Lab Programs:**  
   Basic programs related to OS concepts like scheduling, memory management, and synchronization.  
 
