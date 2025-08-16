@@ -1,7 +1,7 @@
 # Operating Systems Lab   
       
 This repository contains programs and projects focused on fundamental Operating System concepts.      
- 
+  
 ## Contents :- 
     
 - **Lab Programs:**  
